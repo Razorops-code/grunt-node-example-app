@@ -6,4 +6,4 @@ tasks:
     - run: npm install               
     - run: npm install -g grunt-cli
     - run: grunt --version
-    - run: grunt build
+    - run: grunt default
